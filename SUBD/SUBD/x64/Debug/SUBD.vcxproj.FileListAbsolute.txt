@@ -1,0 +1,5 @@
+D:\futbo\SUBD\SUBD\x64\Debug\SUBD.vcxproj.AssemblyReference.cache
+D:\futbo\SUBD\SUBD\x64\Debug\SUBD.AdminPanel.resources
+D:\futbo\SUBD\SUBD\x64\Debug\SUBD.LoginForm.resources
+D:\futbo\SUBD\SUBD\x64\Debug\SUBD.MyForm.resources
+D:\futbo\SUBD\SUBD\x64\Debug\SUBD.vcxproj.GenerateResource.cache
